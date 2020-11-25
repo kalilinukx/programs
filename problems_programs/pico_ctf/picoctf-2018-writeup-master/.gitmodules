@@ -1,0 +1,9 @@
+[submodule "Binary Exploitation/can-you-gets-me/solution/ROPgadget"]
+	path = Binary Exploitation/can-you-gets-me/solution/ROPgadget
+	url = https://github.com/JonathanSalwan/ROPgadget.git
+[submodule "Cryptography/Super Safe RSA/solution/msieve"]
+	path = Cryptography/Super Safe RSA/solution/msieve
+	url = https://github.com/radii/msieve.git
+[submodule "Cryptography/Super Safe RSA 3/solution/msieve"]
+	path = Cryptography/Super Safe RSA 3/solution/msieve
+	url = https://github.com/radii/msieve.git
