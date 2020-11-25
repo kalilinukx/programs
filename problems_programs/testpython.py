@@ -3,3 +3,5 @@ def sayname():
     print("You are ",name)
 
 sayname()
+# output = Enter your name :Raj 
+# You are Raj
