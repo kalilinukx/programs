@@ -1,1 +1,1 @@
-## This is going to be presented on the first page of repository.
+## This is going to be presented on the first page of repository. thanx
